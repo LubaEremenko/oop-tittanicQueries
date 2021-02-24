@@ -4,7 +4,6 @@ import com.company.models.Passenger;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
-import java.sql.*;
 import java.util.List;
 
 public class TitanicListing extends JFrame {
